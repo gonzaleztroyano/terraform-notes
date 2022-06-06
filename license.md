@@ -1,6 +1,6 @@
 # Atribución 4.0 Internacional (CC BY 4.0)
 
-## Esta obra se publica bajo la licenca Creative Commons BY 4.0 Internacional. 
+## Esta obra se publica bajo la licencia Creative Commons BY 4.0 Internacional. 
 
 Para obtener más información sobre las características de esta licencia puede utilizar los siguientes enlaces:
  * Summary of [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en) as well as the [legal code](https://creativecommons.org/licenses/by/4.0/legalcode) (English version).
